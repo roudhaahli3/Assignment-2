@@ -1,4 +1,5 @@
 from enum import Enum
+from datetime import date
 
 class EventType(Enum):
     '''class to represent the ENUM for the SpecialEvent different purposes'''
